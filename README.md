@@ -132,12 +132,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <p align="justify">
 
 ## Home Page
-<img src="./screenshots/HomePage.png">
+<img src="./Screenshots/HomePage.png">
 
 ### Dropdown List
-<img src="./screenshots/DropdownList.png">
+<img src="./Screenshots/DropdownList.png">
 
 ### Displaying Selected Option from Dropdown list
-<img src="/screenshots/DisplayingSelectedResult.png">
+<img src="./Screenshots/DisplayingSelectedResult.png">
 
 </p>
