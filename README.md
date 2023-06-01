@@ -1,3 +1,31 @@
+# ReactJS Dropdown
+
+## Introduction
+Creating a **Simple Dropdown Component** using ReactJS.  
+
+
+## 🔗 Important Links
+
+> ## Checkout the Website [Web Application](https://dropdown-xi.vercel.app/)
+
+<br />
+
+## 🔗 APIs Used
+
+> ##  Extnernal API [External API](https://jsonplaceholder.typicode.com/users)
+
+<br/>
+
+## Features
+
+- **Dropdown**
+<p>On hovering the button, users can able to see the dropdown list. Dropdown list consists of names of the user which are fetched from the External API.</p>
+
+- **Displaying Name**
+<p>User can able to see the selected name from the dropdown list. On clicking the option from the dropdown list the dropdown list gets closed.</p>
+
+<br />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +96,48 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+## Tools Used
+
+ <p align="justify">
+<img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML logo">
+<img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo">
+<img height="140" width="140" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Javascript logo">
+<img height="140" width="140" src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp" alt="React logo">
+<img height="140" width="140" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" alt="React-Bootstrap logo">
+<img height="140" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png" alt="Sass logo">
+<img height="140" width="140" src="https://www.pngitem.com/pimgs/m/13-131098_visual-studio-code-logo-hd-png-download.png" alt="Vscode img logo">
+
+</p>
+
+## Library Used
+- react
+- react-axios
+- react-bootstrap
+- react-icons
+- sass
+
+- Framework: Bootstrap
+- Version Control System: Git
+- VCS Hosting: GitHub
+- Programming / Scripting: Vanilla JavaScript
+- Front-End: SCSS, ReactJS
+- Integrated Development Environment: VSCode
+
+
+## Screens
+
+<p align="justify">
+
+## Home Page
+<img src="./screenshots/HomePage.png">
+
+### Dropdown List
+<img src="./screenshots/DropdownList.png">
+
+### Displaying Selected Option from Dropdown list
+<img src="/screenshots/DisplayingSelectedResult.png">
+
+</p>
